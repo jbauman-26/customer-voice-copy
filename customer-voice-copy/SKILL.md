@@ -132,6 +132,16 @@ they get.
 6. **Compliance.** No guaranteed income or results. Add a disclaimer wherever income, health
    or lifestyle results come up.
 
+## Static ads: from copy to a finished image
+
+When the job is a static ad, finish the copy (headline, sub-line, CTA, one line on the visual),
+then turn it into an image brief: the scene, the exact text to render, the brand colors and
+type, and a list of things to avoid (logos you don't own, made-up handles or URLs, robot or
+glowing AI imagery). If an image tool is connected (GPT Image, the Graphed static-ads skill,
+Midjourney or similar), generate the ad at 4:5 (1080x1350) and check the render: every word
+spelled exactly as written, no invented logos or handles. If no image tool is connected,
+hand over the brief ready to paste.
+
 ## First messages and cold outreach
 
 Lead with them, not you. See [references/line-rules.md](references/line-rules.md).

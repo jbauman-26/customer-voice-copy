@@ -16,7 +16,9 @@ Built by [Jake Bauman](https://www.linkedin.com/in/jake-bauman-marketing/).
    by Perceived Effort. It keeps the winner.
 4. **Edits in a fixed order.** The three-question line test, the 5 Cs (clear, concise, concrete,
    conversational, cadence), a voice pass and a kill pass for AI phrasing and em dashes.
-5. **Handles cold outreach** reader first: their finding, the fix, a gift, then one short ask.
+5. **Builds static ads.** Writes the image brief and, with an image tool connected, generates
+   the 1080x1350 ad.
+6. **Handles cold outreach** reader first: their finding, the fix, a gift, then one short ask.
 
 ## Install
 
