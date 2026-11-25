@@ -8,9 +8,10 @@ Built by [Jake Bauman](https://www.linkedin.com/in/jake-bauman-marketing/).
 
 ## What it does
 
-1. **Maps the reader.** Today, frustrations, fears and dreams, in your customers' own words.
-2. **Thinks first.** The 6 Ps: People, Positioning, Promise, Proof, Priority, Process. It asks
-   for real customer words (reviews, tickets, calls) and marks gaps instead of inventing them.
+1. **Finds and maps the reader.** It pulls your reviews and customer talk on its own, then
+   maps today, frustrations, fears and dreams in your customers' own words.
+2. **Thinks first.** The 6 Ps: People, Positioning, Promise, Proof, Priority, Process. It finds
+   real customer words itself (reviews, tickets, calls) and marks gaps instead of inventing them.
 3. **Writes the hook five ways** and scores each one: Benefit x Relevance x Credibility, divided
    by Perceived Effort. It keeps the winner.
 4. **Edits in a fixed order.** The three-question line test, the 5 Cs (clear, concise, concrete,
@@ -34,7 +35,8 @@ Settings > Capabilities > Skills.
 
 Ask in plain words: "write a LinkedIn post about our new returns policy", "rewrite this
 email", "give me 5 hooks for this ad". Or name it: "use copy-jake". Paste in real customer
-reviews or comments for the best results. The skill will ask for them if you don't.
+reviews or comments if you have them. If you don't, the skill goes and finds them: your
+project files, connected tools, your site and public reviews.
 
 ## Credits
 

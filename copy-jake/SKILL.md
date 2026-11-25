@@ -44,15 +44,22 @@ Before the 6 Ps, fill four boxes about one reader, in their words where you can:
 | Fears | Where do they not want to end up? What is the worst version of the next year? |
 | Dreams | Where do they want to be? What would they brag about if it worked? |
 
-Pull these from real material first: reviews, support tickets, sales calls, comments, survey
-answers. Copy their exact phrases into the boxes. When a box is empty, ask for material or
-mark it `[GAP]`. Do not draft until you have more to say than you need. The pain, said their
+**Go and get the material yourself. Do not make the user do the research.** In this order:
+1. Look in what you can already reach: files in the project, connected tools (Shopify,
+   Klaviyo, a helpdesk, Google Drive), and anything pasted earlier in the chat.
+2. If you can browse, read the brand's own site and product pages, then public reviews and
+   talk about the brand or category: review sites, Amazon, Reddit, YouTube comments.
+3. Tell the user in one line what you are pulling and from where, then do it.
+4. Only ask the user for something you could not find, and say what you found first.
+
+Copy their exact phrases into the boxes, with where each came from. When a box is still
+empty after you looked, mark it `[GAP]`. Do not draft until you have more to say than you need. The pain, said their
 way, becomes the hook. The dream becomes the promise.
 
 ## Step 1b: Think (the 6 Ps)
 
 Answer each in one line from real material: customer reviews, support tickets, sales calls,
-comments, survey answers, the offer itself. If you have none, ask for it before writing.
+comments, survey answers, the offer itself. Use what you gathered in Step 1.
 
 | P | Question | Rule of thumb |
 |---|---|---|
