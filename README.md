@@ -1,4 +1,4 @@
-# Copy-Jake: a copywriting skill for Claude
+# Customer Voice Copy: a copywriting skill for Claude
 
 Claude can write fluent sentences about anyone. The copy only lands when it knows who the reader
 is, what hurts, and the words they use for it. This skill makes Claude do that thinking before it
@@ -23,20 +23,22 @@ Built by [Jake Bauman](https://www.linkedin.com/in/jake-bauman-marketing/).
 Claude Code, for every project:
 
 ```bash
-git clone https://github.com/jbauman-26/copy-jake.git /tmp/copy-jake && cp -r /tmp/copy-jake/copy-jake ~/.claude/skills/
+git clone https://github.com/jbauman-26/customer-voice-copy.git /tmp/customer-voice-copy && cp -r /tmp/customer-voice-copy/customer-voice-copy ~/.claude/skills/
 ```
 
-One project only: copy the `copy-jake` folder into `.claude/skills/` in that project.
+One project only: copy the `customer-voice-copy` folder into `.claude/skills/` in that project.
 
-Claude.ai or the Claude desktop app: zip the `copy-jake` folder and upload it under
+Claude.ai or the Claude desktop app: zip the `customer-voice-copy` folder and upload it under
 Settings > Capabilities > Skills.
 
 ## Use it
 
 Ask in plain words: "write a LinkedIn post about our new returns policy", "rewrite this
-email", "give me 5 hooks for this ad". Or name it: "use copy-jake". Paste in real customer
+email", "give me 5 hooks for this ad". Or name it: "use customer voice copy". Paste in real customer
 reviews or comments if you have them. If you don't, the skill goes and finds them: your
-project files, connected tools, your site and public reviews.
+project files, connected tools, your site and public reviews. Connect
+[Firecrawl](https://www.firecrawl.dev) and it also searches Reddit and community forums for
+the pain points your customers keep repeating.
 
 ## Credits
 

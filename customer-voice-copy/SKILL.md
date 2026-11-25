@@ -1,16 +1,16 @@
 ---
-name: copy-jake
+name: customer-voice-copy
 description: >
-  Copy-Jake: a copywriting skill that makes Claude think before it writes. It runs the 6 Ps
+  Customer Voice Copy: a copywriting skill that finds what your customers say, then writes from it. It runs the 6 Ps
   thinking pass (People, Positioning, Promise, Proof, Priority, Process), writes with a scored
   hook formula and simple body frameworks, then edits with the 5 Cs and a kill pass that strips
   AI-sounding writing. Use whenever writing, rewriting or critiquing persuasive copy: social
   posts, hooks, emails and newsletters, cold outreach, landing pages, product pages, ads, CTAs
-  and video scripts. Triggers: "copy jake", "write copy", "write a post", "write a hook",
+  and video scripts. Triggers: "customer voice copy", "write copy", "write a post", "write a hook",
   "ad copy", "email copy", "rewrite this", "punch this up", "make this convert".
 ---
 
-# Copy-Jake
+# Customer Voice Copy
 
 A copywriting skill built by Jake Bauman. The 6 Ps, the 5 Cs and the hook score come from
 Jay Yang's copywriting teaching. The line-level tests come from Harry Dry (Marketing Examples).
@@ -47,10 +47,16 @@ Before the 6 Ps, fill four boxes about one reader, in their words where you can:
 **Go and get the material yourself. Do not make the user do the research.** In this order:
 1. Look in what you can already reach: files in the project, connected tools (Shopify,
    Klaviyo, a helpdesk, Google Drive), and anything pasted earlier in the chat.
-2. If you can browse, read the brand's own site and product pages, then public reviews and
-   talk about the brand or category: review sites, Amazon, Reddit, YouTube comments.
-3. Tell the user in one line what you are pulling and from where, then do it.
-4. Only ask the user for something you could not find, and say what you found first.
+2. Search the open web for pain points. If Firecrawl is connected (MCP or CLI), use it:
+   `firecrawl_search` for the category's problems on Reddit, community forums, review sites
+   and Q&A threads (for example "weighted sleep mask" plus words like "problem", "hate",
+   "finally", "wish"), then scrape the best threads and review pages in full. Without
+   Firecrawl, use whatever web search and fetch you have. Read the brand's own site and
+   product pages too.
+3. Count what repeats. Group the complaints and wishes into pain points, note how many
+   times each came up and where, and keep the best exact quotes for each.
+4. Tell the user in one line what you are pulling and from where, then do it.
+5. Only ask the user for something you could not find, and say what you found first.
 
 Copy their exact phrases into the boxes, with where each came from. When a box is still
 empty after you looked, mark it `[GAP]`. Do not draft until you have more to say than you need. The pain, said their
