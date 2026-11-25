@@ -8,13 +8,14 @@ Built by [Jake Bauman](https://www.linkedin.com/in/jake-bauman-marketing/).
 
 ## What it does
 
-1. **Thinks first.** The 6 Ps: People, Positioning, Promise, Proof, Priority, Process. It asks
+1. **Maps the reader.** Today, frustrations, fears and dreams, in your customers' own words.
+2. **Thinks first.** The 6 Ps: People, Positioning, Promise, Proof, Priority, Process. It asks
    for real customer words (reviews, tickets, calls) and marks gaps instead of inventing them.
-2. **Writes the hook five ways** and scores each one: Benefit x Relevance x Credibility, divided
+3. **Writes the hook five ways** and scores each one: Benefit x Relevance x Credibility, divided
    by Perceived Effort. It keeps the winner.
-3. **Edits in a fixed order.** The three-question line test, the 5 Cs (clear, concise, concrete,
+4. **Edits in a fixed order.** The three-question line test, the 5 Cs (clear, concise, concrete,
    conversational, cadence), a voice pass and a kill pass for AI phrasing and em dashes.
-4. **Handles cold outreach** reader first: their finding, the fix, a gift, then one short ask.
+5. **Handles cold outreach** reader first: their finding, the fix, a gift, then one short ask.
 
 ## Install
 

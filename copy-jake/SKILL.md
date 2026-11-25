@@ -33,7 +33,23 @@ material than you need.
 
 State the mode in one line, then go.
 
-## Step 1: Think (the 6 Ps)
+## Step 1: Map the reader (empathy map)
+
+Before the 6 Ps, fill four boxes about one reader, in their words where you can:
+
+| Box | Question |
+|---|---|
+| Today | What does their normal day look like? What do they see, hear and deal with? |
+| Frustrations | What annoys them right now? What do they keep trying to avoid? |
+| Fears | Where do they not want to end up? What is the worst version of the next year? |
+| Dreams | Where do they want to be? What would they brag about if it worked? |
+
+Pull these from real material first: reviews, support tickets, sales calls, comments, survey
+answers. Copy their exact phrases into the boxes. When a box is empty, ask for material or
+mark it `[GAP]`. Do not draft until you have more to say than you need. The pain, said their
+way, becomes the hook. The dream becomes the promise.
+
+## Step 1b: Think (the 6 Ps)
 
 Answer each in one line from real material: customer reviews, support tickets, sales calls,
 comments, survey answers, the offer itself. If you have none, ask for it before writing.
